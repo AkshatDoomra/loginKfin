@@ -1,0 +1,13 @@
+.reg{
+    background: #0690e0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+.nam{
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 5px;
+}

@@ -1,0 +1,63 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 300px;
+
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+}
+.maindiv{
+    margin-left: auto;
+    margin-right: auto;
+    background: #0690e0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+   
+}
+
+.eml{
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+.pas{
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 5px;
+
+
+}
+.button-cont{
+    display: flex;
+  justify-content: space-between;
+}
+.lgb{
+    border-radius: 5px;
+    height: 25px;
+    cursor: pointer;
+
+
+}
+.rgb{
+    border-radius: 5px;
+    height: 25px;
+   cursor: pointer;
+
+}
+.kimg{
+    margin-top: 20px;
+}
+
+    
